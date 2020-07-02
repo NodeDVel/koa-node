@@ -1,0 +1,12 @@
+{
+  "name": "koa-node",
+  "version": "1.0.0",
+  "description": "nodejs koa project",
+  "main": "index.js",
+  "repository": "https://github.com/NodeDVel/koa-node.git",
+  "author": "kimminki<kimminki0810@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
