@@ -6,7 +6,12 @@
   "repository": "https://github.com/NodeDVel/koa-node.git",
   "author": "kimminki<kimminki0810@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src",
+    "start:dev": "nodemon --watch src/ src/index.js"
+  },
   "dependencies": {
-    "koa": "^2.13.0"
+    "koa": "^2.13.0",
+    "nodemon": "^2.0.4"
   }
 }
