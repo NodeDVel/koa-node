@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "koa": "^2.13.0",
+    "koa-router": "^9.1.0",
     "nodemon": "^2.0.4"
   }
 }
